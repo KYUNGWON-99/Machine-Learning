@@ -1,2 +1,2 @@
-# Deeplearning
+# Machine Learning
 DNN, CNN, RNN
