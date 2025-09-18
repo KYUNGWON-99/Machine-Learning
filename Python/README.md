@@ -4,7 +4,8 @@ Starbucks__Crawling
 - 2025.09.18 일지
     - for 문 사용시 객체들의 생명주기에 내가 원하는 정답이 있을 수 있다.
     - 예시
-         ```for n in range(len(sido_cd)):
+         ```
+            for n in range(len(sido_cd)):
                 payload = {
                 "sido_cd" : f"{sido_cd[n]}",
                 "rndCod" : "WKM8RHPKRH"
